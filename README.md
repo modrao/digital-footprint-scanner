@@ -2,7 +2,7 @@
 
 A production-ready, open-source privacy tool to check if your email appears in data breaches and assess your digital privacy risk. Inspired by the aesthetic of [nextjs.org](https://nextjs.org).
 
-![Digital Footprint Scanner](https://raw.githubusercontent.com/modrao/digital-footprint-scanner/main/public/og-image.png)
+![Digital Footprint Scanner](https://raw.githubusercontent.com/modrao/digital-footprint-scanner/public/og-image.png)
 
 ## 🛡️ Overview
 
