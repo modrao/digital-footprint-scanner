@@ -26,7 +26,7 @@ export function Navbar() {
             Donate
           </Link>
           <a 
-            href="https://github.com/shahriyarfahim/digital-footprint-scanner" 
+            href="https://github.com/modrao/digital-footprint-scanner" 
             target="_blank" 
             rel="noopener noreferrer"
             className="text-secondary-foreground hover:text-white transition-colors"
