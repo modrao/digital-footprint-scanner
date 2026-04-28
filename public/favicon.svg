@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" fill="none">
+  <!-- Shield outline -->
+  <path d="M16 2 L28 7 L28 20 C28 26 16 30 16 30 C16 30 4 26 4 20 L4 7 Z" 
+        stroke="white" stroke-width="1.5" fill="none"/>
+  <!-- Search circle -->
+  <circle cx="15" cy="14" r="5" stroke="white" stroke-width="1.5"/>
+  <!-- Search handle -->
+  <line x1="19" y1="18" x2="23" y2="22" stroke="white" stroke-width="1.5" stroke-linecap="round"/>
+</svg>
