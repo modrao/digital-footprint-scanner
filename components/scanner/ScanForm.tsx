@@ -5,7 +5,7 @@ import { Button } from '@/components/ui/button';
 import { Input } from '@/components/ui/input';
 import { Skeleton } from '@/components/ui/skeleton';
 import { ScanResult as ScanResultComponent } from './ScanResult';
-import { ScanResult } from '@/lib/types';
+import type { ScanResult } from '@/lib/types';
 import { Search, Loader2, AlertCircle, Shield } from 'lucide-react';
 
 export function ScanForm() {

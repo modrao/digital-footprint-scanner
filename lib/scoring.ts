@@ -1,4 +1,4 @@
-import { BreachEntry, ScanResult, ScoreBreakdown } from './types';
+import type { BreachEntry, ScanResult, ScoreBreakdown } from './types';
 import { getTLD } from './email-utils';
 import { SUSPICIOUS_DOMAINS, RISKY_TLDS } from './suspicious-domains';
 

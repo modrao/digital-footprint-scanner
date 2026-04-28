@@ -1,6 +1,6 @@
 'use client';
 
-import { ScanResult } from '@/lib/types';
+import type { ScanResult } from '@/lib/types';
 import { RiskBadge } from './RiskBadge';
 import { ScoreMeter } from './ScoreMeter';
 import { BreachList } from './BreachList';
