@@ -30,7 +30,7 @@ export const metadata: Metadata = {
     title: 'Digital Footprint Scanner',
     description: 'Check if your email is exposed in data breaches. Free, open source.',
     type: 'website',
-    url: 'https://your-domain.vercel.app',
+    url: 'https://footprint.pro.bd',
   },
   twitter: {
     card: 'summary',
