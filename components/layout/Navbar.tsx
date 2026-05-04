@@ -11,7 +11,7 @@ export function Navbar() {
               <Shield className="h-5 w-5 text-white" />
               <Search className="absolute h-3 w-3 text-white" />
             </div>
-            <span className="font-mono text-sm font-bold tracking-tight text-white uppercase">footprint.sh</span>
+            <span className="font-mono text-sm font-bold tracking-tight text-white uppercase">footprint.pro.bd</span>
           </Link>
         </div>
         
